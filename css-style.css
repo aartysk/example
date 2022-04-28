@@ -1,0 +1,40 @@
+h1 {
+    color:black;
+    font-style: italic;
+    font-family: serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.all-text {
+  margin-left: 20px;
+  margin-right: 50px;
+  margin-bottom: 10px;
+  background-color: aliceblue;
+}
+
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.header {
+    padding: 30px;
+    text-align: center;
+    background-color:hsla(225, 100%, 25%, 0.4);
+    font-size: 20px;
+    position: relative;
+}
+
+#Video {
+  margin-right: 1100px;
+  border: 2px solid  black;
+  border-radius: 10px;
+}
+
+#Various-news {
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0,5px;
+  word-spacing: 1,5px;
+}
